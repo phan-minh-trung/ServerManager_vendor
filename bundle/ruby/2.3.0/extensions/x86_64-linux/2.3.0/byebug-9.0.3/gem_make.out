@@ -1,0 +1,19 @@
+current directory: /home/vagrant/work/ServerManager_vendor/bundle/ruby/2.3.0/gems/byebug-9.0.3/ext/byebug
+/usr/bin/ruby2.3 -r ./siteconf20160613-7535-1gm5in7.rb extconf.rb
+creating Makefile
+
+current directory: /home/vagrant/work/ServerManager_vendor/bundle/ruby/2.3.0/gems/byebug-9.0.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/vagrant/work/ServerManager_vendor/bundle/ruby/2.3.0/gems/byebug-9.0.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling threads.c
+compiling locker.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/vagrant/work/ServerManager_vendor/bundle/ruby/2.3.0/gems/byebug-9.0.3/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20160613-7535-4t99nx/byebug
